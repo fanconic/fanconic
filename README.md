@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Claudio, and am a Master candidate at ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
+My Name is Claudio, and I am a Master candidate at ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
 
 Recently, I interned as machine learning engineer at IBM and as a management consultant / data scientist at McKinsey & Company.
 
