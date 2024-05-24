@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Claudio, and I am a Master graduate from ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
+My Name is Claudio, and I am a Ph.D. student in Machine Learning and AI in medicine at the University of Cambridge. Presiously, I graduated from ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
 
 I interned as research engineer at Sony AI, machine learning engineer at IBM, and as management consultant/data scientist at McKinsey & Company.
 
