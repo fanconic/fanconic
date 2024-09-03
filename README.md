@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My Name is Claudio, and I am a Ph.D. student in Machine Learning and AI in medicine at the University of Cambridge. Presiously, I graduated from ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
+I am Claudio, a PhD student in Machine Learning and AI in medicine at the University of Cambridge. Previously, I graduated from ETH Zurich (Swiss Federal Institute of Technology) in Information Technology and Electrical Engineering (EEIT). I have a strong interest in data science, computer vision and machine learning.
 
-I interned as research engineer at Sony AI, machine learning engineer at IBM, and as management consultant/data scientist at McKinsey & Company.
+I interned as a research scientist at Sony AI, a machine learning engineer at IBM, and a management consultant/data scientist at McKinsey & Company.
 
 #### Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
